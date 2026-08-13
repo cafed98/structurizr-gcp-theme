@@ -13,7 +13,7 @@ To use this theme, just add the following line to your view statement:
 ```dsl
 views {
   ...
-  themes https://raw.githubusercontent.com/FedericoCantarelli/structurizr-gcp-theme/refs/heads/<your-version>/google-cloud-platform/theme.json
+  themes https://raw.githubusercontent.com/cafed98/structurizr-gcp-theme/refs/heads/<version>/google-cloud-platform/theme.json
   }
 ```
 You can replace `<your-version>` with the version you want to use. For example, if you want to use version 0, you can use `v0`. If you want to use the latest version, you can use `main`.
